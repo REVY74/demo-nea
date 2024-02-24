@@ -1,0 +1,16 @@
+C:\Users\kamra\source\repos\demo\demo\bin\Debug\net6.0-windows\demo.exe
+C:\Users\kamra\source\repos\demo\demo\bin\Debug\net6.0-windows\demo.deps.json
+C:\Users\kamra\source\repos\demo\demo\bin\Debug\net6.0-windows\demo.runtimeconfig.json
+C:\Users\kamra\source\repos\demo\demo\bin\Debug\net6.0-windows\demo.dll
+C:\Users\kamra\source\repos\demo\demo\bin\Debug\net6.0-windows\demo.pdb
+C:\Users\kamra\source\repos\demo\demo\obj\Debug\net6.0-windows\demo.Form1.resources
+C:\Users\kamra\source\repos\demo\demo\obj\Debug\net6.0-windows\demo.csproj.GenerateResource.cache
+C:\Users\kamra\source\repos\demo\demo\obj\Debug\net6.0-windows\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamra\source\repos\demo\demo\obj\Debug\net6.0-windows\demo.AssemblyInfoInputs.cache
+C:\Users\kamra\source\repos\demo\demo\obj\Debug\net6.0-windows\demo.AssemblyInfo.cs
+C:\Users\kamra\source\repos\demo\demo\obj\Debug\net6.0-windows\demo.csproj.CoreCompileInputs.cache
+C:\Users\kamra\source\repos\demo\demo\obj\Debug\net6.0-windows\demo.dll
+C:\Users\kamra\source\repos\demo\demo\obj\Debug\net6.0-windows\refint\demo.dll
+C:\Users\kamra\source\repos\demo\demo\obj\Debug\net6.0-windows\demo.pdb
+C:\Users\kamra\source\repos\demo\demo\obj\Debug\net6.0-windows\demo.genruntimeconfig.cache
+C:\Users\kamra\source\repos\demo\demo\obj\Debug\net6.0-windows\ref\demo.dll
